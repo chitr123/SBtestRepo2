@@ -1,5 +1,5 @@
 --- 
-name: 1111122lb2-mon2
+name: 11111122lb2-mon2
 namespace: com.citrix.adc.stylebooks
 version: "1.0"
 description: "This stylebook defines a typical Load Balanced Application configuration with monitors."
